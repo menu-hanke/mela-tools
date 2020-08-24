@@ -1,0 +1,11 @@
+*.par
+*.PAR
+*.msb
+*.MSB
+*.rsd
+*.RSD
+
+*.json
+*.hexdump
+
+*.pyc
